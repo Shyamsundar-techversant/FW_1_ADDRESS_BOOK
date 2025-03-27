@@ -1,3 +1,3 @@
 component extends = "framework.one"{
-    this.name = "ToDoApp"
-}
+    this.name = "AddressBook"
+} 
